@@ -15,4 +15,8 @@ class Author
     content.author = self 
   end 
   
+  def add_post_by_title
+    
+  end
+  
 end 
