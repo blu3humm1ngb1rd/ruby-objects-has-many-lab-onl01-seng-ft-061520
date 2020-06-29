@@ -11,4 +11,8 @@ class Author
     end 
   end 
   
+  def add_post(post)
+    
+  end 
+  
 end 
